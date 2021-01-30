@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1563205555 source:c:\users\jamshid ali\desktop\2nd semester\computer programming\project 2048\main.cpp
+	<iostream>
+	<ctime>
+	<stdlib.h>
+	<conio.h>
+	<iomanip>
+
+1563205555 source:c:\users\jamshid ali\desktop\2nd semester\computer programming\cp project\project 2048 c++ without classes\main.cpp
+	<iostream>
+	<ctime>
+	<stdlib.h>
+	<conio.h>
+	<iomanip>
+
+1563205556 source:d:\dcse\2nd semester\computer programming\cp project\project 2048 c++ without classes\main.cpp
+	<iostream>
+	<ctime>
+	<stdlib.h>
+	<conio.h>
+	<iomanip>
+
